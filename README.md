@@ -13,4 +13,4 @@ Hi, I'm Aaron 👋
 
 I'm the **CTO at [Nucla](https://nucla.com)** and **Founder of [Kaska](https://kaska.app)**.
 
-My wife, Bernese Mountain Dogs, and I are based in Montrose, Colorado. We enjoy skiing, travel, and reading.
+My wife, Bernese Mountain Dogs, and I are based in Colorado. We enjoy skiing, travel, and reading.

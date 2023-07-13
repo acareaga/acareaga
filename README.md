@@ -1,3 +1,5 @@
+<img src="https://aaroncareaga.com/background.jpeg"></img>
+
 <p align="center">
   <samp>
     <a href="https://aaroncareaga.com" target="_blank">Blog</a> •
@@ -12,5 +14,3 @@ Hi, I'm Aaron 👋
 I'm the **CTO at [Nucla](https://nucla.com)** and **Founder of [Kaska](https://kaska.app)**.
 
 My wife, Bernese Mountain Dogs, and I are based in Montrose, Colorado. We enjoy skiing, travel, and reading.
-
-<img src="https://aaroncareaga.com/background.jpeg"></img>

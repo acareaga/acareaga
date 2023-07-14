@@ -2,10 +2,10 @@
 
 <p align="center">
   <samp>
-    <a href="https://aaroncareaga.com" target="_blank">Blog</a> •
+    <a href="https://aaroncareaga.com" target="_blank">About</a> •
     <a href="https://twitter.com/aaroncareaga" target="_blank">Twitter</a> •
     <a href="https://www.linkedin.com/in/acareaga/" target="_blank">LinkedIn</a> •
-    <a href="https://www.npmjs.com/~aaronc" target="_blank">NPM</a>
+    <a href="https://www.instagram.com/powskiing/" target="_blank">Instagram</a>
   </samp>
 </p>
 
